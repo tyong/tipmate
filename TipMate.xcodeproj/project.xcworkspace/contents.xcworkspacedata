@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/tabithayong/Desktop/tips/TipMate.xcodeproj">
+      location = "self:tips.xcodeproj">
    </FileRef>
 </Workspace>

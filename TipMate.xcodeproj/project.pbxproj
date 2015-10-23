@@ -156,7 +156,6 @@
 		5B9771FF1BC69FF900A3933E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Tabitha Yong";
 				TargetAttributes = {
@@ -410,7 +409,6 @@
 				5B9772281BC69FF900A3933E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		5B9772291BC69FF900A3933E /* Build configuration list for PBXNativeTarget "tipsTests" */ = {
 			isa = XCConfigurationList;
@@ -419,7 +417,6 @@
 				5B97722B1BC69FF900A3933E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
